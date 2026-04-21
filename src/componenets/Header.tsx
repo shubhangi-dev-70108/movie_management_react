@@ -19,7 +19,7 @@ function Header({ onLogOutFn }: any) {
       }}
     >
       <Toolbar sx={{ display: "flex", justifyContent: "space-between" }}>
-        {/* Moviemate */}
+        {/* Moviemate. hh */}
         <Typography
           variant="h6"
           sx={{
